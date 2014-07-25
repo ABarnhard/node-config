@@ -8,7 +8,3 @@ notifications:
   email: false
 after_script:
   - npm run coveralls
-<<<<<<< HEAD
-=======
-
->>>>>>> f84c5ce12c68089406bbb3b10462897045a1f303
